@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	logallrefupdates = true
+	worktree = E:\\Ideal源码\\test
+[remote "origin"]
+	url = https://github.com/hjsdjko/yuanqutingchexitong.git
+	fetch = +refs/heads/*:refs/remotes/origin/*

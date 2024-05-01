@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="yuanqutingchexitong:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>yuanqutingchexitong</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="yuanqutingchexitong.war">
+      <element id="artifact" artifact-name="yuanqutingchexitong:war exploded" />
+    </root>
+  </artifact>
+</component>
